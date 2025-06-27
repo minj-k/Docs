@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+python-dotenv
+pandas
+PyPDF2
+python-docx
+olefile
+pyhwp
+numpy
